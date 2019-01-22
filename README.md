@@ -24,3 +24,6 @@ download plot_model01.py put it in your folder like this
 input 'python plot_model01.py --model_path models\sgan-models\01'
 
 done!
+
+
+![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/img/50.gif)
