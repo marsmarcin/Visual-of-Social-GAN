@@ -41,4 +41,4 @@ in version-3 use 'python plot_model03.py --model_path models\sgan-models\01'
 
 you can change line 134 in v3 'interval=500' to see more clearly
 
-![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/img/40000.gif)
+![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/img/4000.gif)
