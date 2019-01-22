@@ -31,4 +31,4 @@ done!
 
 in version-2 use 'python plot_model02.py --model_path models\sgan-models\01'
 
-![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/img/002.gif)
+![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/002.gif)
