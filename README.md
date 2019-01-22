@@ -32,3 +32,8 @@ done!
 in version-2 use 'python plot_model02.py --model_path models\sgan-models\01'
 
 ![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/002.gif)
+
+
+in version-3 use 'python plot_model03.py --model_path models\sgan-models\01'
+
+![images](https://github.com/marsmarcin/Visual-of-Social-GAN/blob/master/img/30000.gif)
