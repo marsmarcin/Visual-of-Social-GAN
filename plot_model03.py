@@ -132,6 +132,7 @@ def ploot():
     y14=total_bb[3][:,1]
 
     ani = animation.FuncAnimation(fig, update_dot, frames = gen_dot, interval = 5, init_func=init)
+    #you can make the interval bigger to see more clearly ie. interval=500
     plt.show()
     plt.close()
 
